@@ -1,6 +1,6 @@
-# MASTERMELI
+# Mastermeli
 > El diseño de lenguajes de programación es como pasear en el parque. Bueno, en parque jurásico
-> <div style="text-align:right"> Larry Wall </div>
+> <div style="text-align:right"> --Larry Wall </div>
 
 ## Comandos
 <p>
