@@ -1,8 +1,9 @@
-#MASTERMELI
-"El diseño de lenguajes de programación es como pasear en el parque. Bueno, en parque jurásico"
--- Larry Wall
+# MASTERMELI
+> El diseño de lenguajes de programación es como pasear en el parque. Bueno, en parque jurásico
+> <div style="text-align: right"> Larry Wall </div>
 
-Comandos
+## Comandos
+<p>
 git clone https://github.com/julideangelis/mastermeli.git
 git config --global user.name "Julian de angelis"
 git config --global user.email "jda.2013@hotmail.com"
@@ -13,6 +14,14 @@ git push
 git add .gitignore
 git add datos01.txt
 git tag v0.1 -m "Primera version"
+git checkout -b "V.0.2"
+git push origin V.0.2
+git checkout master
+git merge V.0.2
+git branch -d V.0.2
+git branch
+git log
+</p>
 
 ## Compañeros de curso
 
